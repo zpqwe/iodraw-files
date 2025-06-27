@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70BxZgzOThz-AQRmthiM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70BxZgzOThz-AQRmthiM-1" target="70BxZgzOThz-AQRmthiM-2">
+        <mxCell id="70BxZgzOThz-AQRmthiM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70BxZgzOThz-AQRmthiM-1" target="70BxZgzOThz-AQRmthiM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-1" value="快卡申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="70BxZgzOThz-AQRmthiM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="70BxZgzOThz-AQRmthiM-2" target="70BxZgzOThz-AQRmthiM-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-2" value="快卡申请&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="70BxZgzOThz-AQRmthiM-5" value="快卡申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
