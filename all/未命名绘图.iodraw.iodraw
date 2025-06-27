@@ -10,7 +10,7 @@
         <mxCell id="70BxZgzOThz-AQRmthiM-1" value="快卡申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="70BxZgzOThz-AQRmthiM-2" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="70BxZgzOThz-AQRmthiM-2" value="快卡申请&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
