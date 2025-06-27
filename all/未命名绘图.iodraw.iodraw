@@ -43,7 +43,7 @@
         <mxCell id="70BxZgzOThz-AQRmthiM-13" value="归档，发送邮件" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="790" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="70BxZgzOThz-AQRmthiM-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="70BxZgzOThz-AQRmthiM-15" value="特殊调运-整数Scrapping Deployment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
