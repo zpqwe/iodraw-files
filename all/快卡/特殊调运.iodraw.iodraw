@@ -14,7 +14,7 @@
           <mxGeometry x="210" y="150" width="260" height="610" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-2" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="470" width="280" height="420" as="geometry" />
+          <mxGeometry x="470" y="470" width="280" height="460" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70BxZgzOThz-AQRmthiM-1" target="70BxZgzOThz-AQRmthiM-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Microsoft YaHei, \\5FAE软雅黑, Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;开始&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="577" y="490" width="80" height="80" as="geometry" />
+          <mxGeometry x="577" y="491" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-9" value="等待同步PO/Delivery" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-11" value="超时校验18分钟，更新PO/Delivery" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="557" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="557" y="661" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-13" value="归档，发送邮件" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="577" y="790" width="80" height="80" as="geometry" />
+          <mxGeometry x="577" y="791" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70BxZgzOThz-AQRmthiM-16" target="70BxZgzOThz-AQRmthiM-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
