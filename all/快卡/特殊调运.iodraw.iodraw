@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-7" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="830" y="197" width="270" height="290" as="geometry" />
+          <mxGeometry x="860" y="197" width="240" height="290" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70BxZgzOThz-AQRmthiM-2" target="70BxZgzOThz-AQRmthiM-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry x="750" y="700" width="340" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-6" value="快卡申请" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="202" y="150" width="110" height="30" as="geometry" />
+          <mxGeometry x="200" y="201" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-8" value="特殊调运-整数Scrapping Deployment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="823" y="192" width="223" height="48" as="geometry" />
+          <mxGeometry x="823" y="201" width="223" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6HdzEMR1AbC3Hcp_Gny-11" target="70BxZgzOThz-AQRmthiM-16">
           <mxGeometry relative="1" as="geometry" />
