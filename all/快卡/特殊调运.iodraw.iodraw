@@ -7,7 +7,7 @@
         <mxCell id="70BxZgzOThz-AQRmthiM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70BxZgzOThz-AQRmthiM-2" target="70BxZgzOThz-AQRmthiM-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6HdzEMR1AbC3Hcp_Gny-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g6HdzEMR1AbC3Hcp_Gny-3" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="310" height="610" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -67,8 +67,8 @@
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-1" value="修改点：&lt;div&gt;1、超时校验18分钟后由DMLSQL语句改成Java代码。&lt;/div&gt;&lt;div&gt;2.在匹配ISTO/STO和Deliver的时候如果出现死锁的情况，在5分钟之内重试，如果成功，进行归档，发送邮件。&lt;/div&gt;&lt;div&gt;如果失败，则发送ESB报错，然后接口继续触发一&lt;span style=&quot;background-color: initial;&quot;&gt;次IDOC提醒&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="610" width="340" as="geometry" />
         </mxCell>
-        <mxCell id="g6HdzEMR1AbC3Hcp_Gny-6" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="g6HdzEMR1AbC3Hcp_Gny-6" value="快卡申请" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
