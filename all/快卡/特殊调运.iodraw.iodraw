@@ -14,7 +14,7 @@
           <mxGeometry x="210" y="150" width="260" height="610" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-2" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="470" width="310" height="420" as="geometry" />
+          <mxGeometry x="470" y="470" width="280" height="420" as="geometry" />
         </mxCell>
         <mxCell id="70BxZgzOThz-AQRmthiM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="70BxZgzOThz-AQRmthiM-1" target="70BxZgzOThz-AQRmthiM-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="750" y="700" width="340" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-6" value="快卡申请" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="160" y="150" width="110" height="30" as="geometry" />
+          <mxGeometry x="202" y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-8" value="特殊调运-整数Scrapping Deployment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="823" y="172" width="223" height="20" as="geometry" />
