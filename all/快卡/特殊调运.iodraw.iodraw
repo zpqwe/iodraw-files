@@ -74,7 +74,7 @@
           <mxGeometry x="160" y="150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-8" value="特殊调运-整数Scrapping Deployment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="213" height="20" as="geometry" />
+          <mxGeometry x="630" y="200" width="223" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
