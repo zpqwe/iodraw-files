@@ -70,6 +70,9 @@
         <mxCell id="g6HdzEMR1AbC3Hcp_Gny-6" value="快卡申请" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="g6HdzEMR1AbC3Hcp_Gny-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="210" width="300" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
